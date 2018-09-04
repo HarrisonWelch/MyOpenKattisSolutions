@@ -9,7 +9,7 @@ Country: [United States of America](https://i.kym-cdn.com/entries/icons/original
 
 * [Scoreboard](https://open.kattis.com/countries/USA)
 
-Sub-country (state): [Tennessee](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjYl_GtraDdAhVLmK0KHYl0CewQjRx6BAgBEAU&url=https%3A%2F%2Fstatesymbolsusa.org%2Fsymbol-official-item%2Ftennessee%2Fstate-song%2Ftennessee-0&psig=AOvVaw0DxmkIMr4zNvOdN44bHeKQ&ust=1536116313927379)
+Subdivision (state): [Tennessee](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjYl_GtraDdAhVLmK0KHYl0CewQjRx6BAgBEAU&url=https%3A%2F%2Fstatesymbolsusa.org%2Fsymbol-official-item%2Ftennessee%2Fstate-song%2Ftennessee-0&psig=AOvVaw0DxmkIMr4zNvOdN44bHeKQ&ust=1536116313927379)
 
 * [Scoreboard](https://open.kattis.com/countries/USA/TN)
 
