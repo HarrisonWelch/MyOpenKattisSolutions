@@ -3,7 +3,7 @@ My [Open Kattis](https://open.kattis.com/) Solutions
 
 ## Description
 
-This repository contains my solutions to the coding challenge site OpenKattis. These are my (usually) Python solutions to problems I have solved (or at least tried).
+This repository contains my solutions to the coding challenges on the site [OpenKattis](https://open.kattis.com/). These are my (usually) Python solutions to problems I have solved (or at least tried).
 
 Country: [United States of America](https://i.kym-cdn.com/entries/icons/original/000/011/859/murica.jpg)
 
